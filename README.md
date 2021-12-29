@@ -3,5 +3,5 @@ Pequeno projeto da faculdade sobre linguagem C, onde crio um mini-sistema para u
 
 
 <div> 
-    <img width="30%" src="https://i.imgur.com/9pcTwWM.png" />
+    <img width="60%" src="https://i.imgur.com/9pcTwWM.png" />
 </div>
